@@ -11,6 +11,8 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable, 
 
 ## 🔧 Technologies & Tools
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
 ### Frontend Development:
 - **Next.js**
 - **React.js**
@@ -46,6 +48,8 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable, 
 - **UI/UX Design**
 - **Testing & Debugging**
 
+</div>
+
 ## 💼 Career Objectives
 I'm looking for opportunities where I can apply my **web development**, **backend development**, and **system design** skills to create impactful software solutions.
 
@@ -54,3 +58,4 @@ I'm looking for opportunities where I can apply my **web development**, **backen
 Feel free to check out my projects and connect with me!
 
 📫 **Contact**: [sumandebnath.online](https://www.sumandebnath.online)
+
