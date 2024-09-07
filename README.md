@@ -11,44 +11,16 @@ I'm a **Full Stack Developer** with a passion for building efficient, scalable, 
 
 ## 🔧 Technologies & Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-### Frontend Development:
-- **Next.js**
-- **React.js**
-- **Tailwind CSS**
-- **TypeScript**
-- **JavaScript**
-- **HTML5 & CSS3**
-- **Framer Motion**
-- **Figma** (UI/UX design)
-
-### Backend Development:
-- **Node.js**
-- **Express.js**
-- **MongoDB**
-- **SQL** (MySQL, PostgreSQL)
-- **JWT Authentication**
-- **REST APIs**
-- **Docker**
-
-### Mobile App Development:
-- **Flutter**
-- **Dart**
-- **Firebase Authentication** (email/password)
-
-### DevOps:
-- **Docker**
-- **Git & GitHub**
-
-### Additional Skills:
-- **System Design**
-- **API Integration**
-- **Responsive Design**
-- **UI/UX Design**
-- **Testing & Debugging**
-
-</div>
+| Frontend Development | Backend Development | Mobile App Development | DevOps & Tools | Additional Skills |
+| -------------------- | ------------------- | ---------------------- | -------------- | ----------------- |
+| **Next.js**          | **Node.js**          | **Flutter**            | **Docker**     | **System Design**  |
+| **React.js**         | **Express.js**       | **Dart**               | **Git & GitHub** | **API Integration** |
+| **Tailwind CSS**      | **MongoDB**          | **Firebase Auth**       |                | **Responsive Design** |
+| **TypeScript**       | **SQL**              |                        |                | **UI/UX Design** |
+| **JavaScript**       | **JWT Authentication**|                        |                | **Testing & Debugging** |
+| **HTML5 & CSS3**     | **REST APIs**        |                        |                |                   |
+| **Framer Motion**    |                     |                        |                |                   |
+| **Figma** (UI/UX)    |                     |                        |                |                   |
 
 ## 💼 Career Objectives
 I'm looking for opportunities where I can apply my **web development**, **backend development**, and **system design** skills to create impactful software solutions.
@@ -58,4 +30,5 @@ I'm looking for opportunities where I can apply my **web development**, **backen
 Feel free to check out my projects and connect with me!
 
 📫 **Contact**: [sumandebnath.online](https://www.sumandebnath.online)
+
 
