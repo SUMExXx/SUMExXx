@@ -35,4 +35,31 @@ Feel free to check out my projects and connect with me!
 
 📫 **Contact**: [sumandebnath.site](https://www.sumandebnath.site)
 
+<p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=SUMExXx&show_icons=true&locale=en&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=SUMExXx&show_icons=true&locale=en"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api?username=SUMExXx&show_icons=true&locale=en" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SUMExXx&show_icons=true&locale=en&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SUMExXx&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMExXx&show_icons=true&locale=en&layout=compact" />
+  </picture>
+</p>
+
+
 
