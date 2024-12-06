@@ -33,7 +33,7 @@ I'm looking for opportunities where I can apply my **web development**, **backen
 
 Feel free to check out my projects and connect with me!
 
-📫 **Contact**: [sumandebnath.site](https://www.sumandebnath.site)
+📫 **Contact**: [sumexxx666@gmail.com](mailto:sumexxx666@gmail.com)
 
 <p>
   <picture>
