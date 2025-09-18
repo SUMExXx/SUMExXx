@@ -36,7 +36,7 @@ Feel free to check out my projects and connect with me!
 📫 **Contact**: [sumexxx666@gmail.com](mailto:sumexxx666@gmail.com)
 
 <p>
-  <picture>
+<!--   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=SUMExXx&show_icons=true&locale=en&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -58,7 +58,8 @@ Feel free to check out my projects and connect with me!
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMExXx&show_icons=true&locale=en&layout=compact" />
-  </picture>
+  </picture> -->
+  [![An image of @sumexxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumexxx)](https://holopin.io/@sumexxx)
 </p>
 
 
