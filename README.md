@@ -59,7 +59,6 @@ Feel free to check out my projects and connect with me!
     />
     <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=SUMExXx&show_icons=true&locale=en&layout=compact" />
   </picture> -->
-  [![An image of @sumexxx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumexxx)](https://holopin.io/@sumexxx)
 </p>
 
 
